@@ -46,3 +46,7 @@ url_video = ""
 # More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
 
 +++
+
+F.E.V.G. Castro. Pedagogy and Measurement of Program Planning Skills. International Computing Education Research (Melbourne, Australia. 8-12 September 2016)
+
+[ICER 2016](https://icer.hosting.acm.org/icer-2016/)

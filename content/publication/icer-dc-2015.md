@@ -46,3 +46,7 @@ url = "http://web.cs.wpi.edu/~fgcastro/2015/icer2015/icer2015-poster.pdf"
 # More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
 
 +++
+
+F.E.V.G. Castro. Investigating Novice Programmers' Plan Composition Strategies. International Computing Education Research (Omaha, Nebraska, USA. 9-13 August 2015)
+
+[ICER 2015](https://icer.hosting.acm.org/icer-2015/)

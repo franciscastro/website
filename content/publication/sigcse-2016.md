@@ -45,3 +45,7 @@ url = "http://web.cs.wpi.edu/~fgcastro/2016/wpi-grie2016/wpi-grie2016.pdf"
 # More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
 
 +++
+
+F.E.V.G. Castro and K. Fisler. On the Interplay Between Bottom-Up and Data-Driven Program Design. SIGCSE 2016 (Memphis, Tennessee, USA. 2-5 March 2016)
+
+[SIGCSE 2016](http://sigcse2016.sigcse.org/)
