@@ -20,12 +20,13 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Francisco Castro"
-  role = "PhD Candidate | Research Assistant"
-  organization = "Worcester Polytechnic Institute"
+  role = "Visiting Researcher | Brown University"
+  organization = "PhD Candidate | Worcester Polytechnic Institute"
   organization_url = ""
   avatar = "francis.jpg"
-  email = "fgcastro at wpi dot edu"
-  address = "Fuller Laboratories 314, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA 01609-2280, USA"
+  email = "francisco_castro at brown dot edu"
+  address = "Center for Information Technology, Brown University, 115 Waterman Street, Providence, RI 02912"
+  #address = "Fuller Laboratories 314, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA 01609-2280, USA"
   office_hours = ""
   phone = ""
   skype = ""
@@ -125,7 +126,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:fgcastro@wpi.edu"
+    link = "mailto:francisco_castro@brown.edu"
 
   [[params.social]]
     icon = "twitter"
