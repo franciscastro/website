@@ -1,6 +1,6 @@
 baseurl = "https://franciscastro.github.io/"
 title = "Francisco Castro"
-copyright = "&copy; 2017 Francis Castro"
+copyright = "&copy; 2018 Francis Castro"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -9,7 +9,7 @@ footnotereturnlinkcontents = "<sup>^</sup>"
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-111378044-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"

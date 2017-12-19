@@ -12,9 +12,10 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
+    "Computing Education",
     "User Research",
     "Human-Computer Interaction",
-    "Learning Science and Computing Education",
+    "Learning Sciences",
     "Qualitative Analytics"
   ]
 
