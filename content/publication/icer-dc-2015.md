@@ -39,8 +39,8 @@ url_video = ""
 
 # Example of a custom URL for this publication (uncomment below)
 [[url_custom]]
-name = "ICER 2015"
-url = "http://web.cs.wpi.edu/~fgcastro/2015/icer2015/icer2015-poster.pdf"
+name = "Preprint"
+url = "pdf/prepub-dc-icer-2015.pdf"
 
 # Add more text about this publication below.
 # More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
