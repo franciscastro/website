@@ -13,7 +13,7 @@ weight = 1
 [interests]
   interests = [
     "Computing Education",
-    "User Research",
+    "User Research/Human-factors research",
     "Human-Computer Interaction",
     "Learning Sciences",
     "Qualitative Analytics"
@@ -39,6 +39,6 @@ weight = 1
 
 # About
 
-My research area revolves around studying people's interactions with technologies. I combine user research techniques and qualitative analysis methods to develop user timelines and narratives that map how people learn to use and adapt technology.
+My research area revolves around studying people's interactions with technologies. I combine user research techniques and qualitative analysis methods to develop frameworks that map how people learn to use and adapt technology. Insights from these frameworks can be used to inform the design of software, tools, and the experiences around these artifacts.
 
 In particular, my PhD work with [Dr. Kathi Fisler](http://cs.brown.edu/~kfisler/) investigates how people learn to design and write programs by exploring the cognitive factors involved in computing and problem solving, human interactions with tools and technology (e.g. IDEs, software, and languages), and the contexts in which they are learning (e.g. functional/OO and interactive environments).

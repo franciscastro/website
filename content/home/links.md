@@ -2,10 +2,10 @@
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
 
-date = "2016-04-20T00:00:00"
-draft = true
+date = "2018-01-18T00:00:00"
+draft = false
 
-title = "Quick links"
+title = "Links"
 subtitle = ""
 widget = "custom"
 
@@ -14,5 +14,4 @@ weight = 60
 
 +++
 
-- Full [publication list](http://franciscastro.github.io/publication/)
-- [CV](https://drive.google.com/file/d/0B06pOUjfq00kOEdIU3BONERIWVE/view?usp=sharing)
+- Download my [resume](pdf/fcastro-resume-01182018.pdf) (Updated: 01/18/2018)
