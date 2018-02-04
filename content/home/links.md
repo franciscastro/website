@@ -14,4 +14,4 @@ weight = 60
 
 +++
 
-- Download my [resume](pdf/fcastro-resume-01282018.pdf) (Updated: 01/28/2018)
+- [Resume](pdf/fcastro-resume-02042018.pdf) (_Updated: 02/04/2018_)
