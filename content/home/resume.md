@@ -5,7 +5,7 @@
 date = "2018-01-18T00:00:00"
 draft = false
 
-title = "Links"
+title = "Resume"
 subtitle = ""
 widget = "custom"
 

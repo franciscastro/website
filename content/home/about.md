@@ -12,7 +12,7 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Human-Computer Interaction",
+    "Human-Computer Interaction (HCI)",
     "User Research/Human-factors research",
     "Computing Education",
     "Learning Sciences",
@@ -39,7 +39,7 @@ weight = 1
 
 ## **About**
 
-I'm an **HCI** and **learning scientist** in the computing and technology-use domain. My research area revolves around studying people's interactions with various technologies and tools. I explore how users' environments and contexts shape their actions and decisions with the tools they use in their workflows and practice.
+I'm a **Human-computer interaction** and **learning scientist** in the computing and technology-use domain. My research area revolves around studying people's interactions with various technologies and tools. I explore how users' environments and contexts shape their actions and decisions with the tools they use in their workflows and practice.
 
 I combine user research techniques and qualitative analysis methods to develop frameworks that map how people learn to use and adapt technology. Insights from these frameworks can be used to inform the design of software, tools, and the experiences around these artifacts. To date, I have applied my work in the areas of *computing education*, *health informatics*, and *simulation development*.
 
