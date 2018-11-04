@@ -12,10 +12,11 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Human-Computer Interaction (HCI)",
-    "User Research/Human-factors research",
     "Computing Education",
     "Learning Sciences",
+    "Human-Computer Interaction (HCI)",
+    "Educational technologies",
+    "User Research/Human-factors research",
     "Qualitative Analytics"
   ]
 
@@ -45,7 +46,7 @@ My research and interests revolve around understanding human cognition and behav
 
 ### **Understanding programmer cognition**
 
-Together with [Dr. Kathi Fisler](http://cs.brown.edu/~kfisler/), I am actively studying how learners, particularly novice-programmers, learn to design programs by exploring the cognitive factors involved in programming and problem-solving, learners' interactions with their tools (e.g. programming languages and IDEs), and the influence of their learning contexts in their programming (e.g. pedagogy and paradigms). My work lies at the intersection of the learning sciences, computer science education, and human-computer interaction. In 2017, I received the **Best Paper award** at the [Koli Calling International Conference on Computing Education Research](https://www.kolicalling.fi/index.php/previous-koli-calling-conferences/koli-calling-2017/general-information-2017) for my work on the development of a [novel multi-faceted taxonomy of program-design skills](publication/koli-2017-1).
+Together with [Dr. Kathi Fisler](http://cs.brown.edu/~kfisler/), I am actively studying how learners, particularly novice-programmers, learn to design programs by exploring the cognitive factors involved in programming and problem-solving, learners' interactions with their tools (e.g. programming languages and IDEs), and the influence of their learning contexts in their programming (e.g. pedagogy and paradigms). My work lies at the intersection of the learning sciences, computer science education, and human-computer interaction. In 2017, I received the **Best Paper award** at the [Koli Calling International Conference on Computing Education Research](https://www.kolicalling.fi/index.php/previous-koli-calling-conferences/koli-calling-2017/general-information-2017) for my work on developing a [novel multi-faceted taxonomy of program-design skills](publication/koli-2017-1).
 
 ### **Early work**
 

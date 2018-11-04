@@ -1,6 +1,6 @@
 baseurl = "https://franciscastro.github.io/"
 title = "Francisco Castro"
-copyright = "&copy; 2018 Francis Castro"
+copyright = "&copy; 2019 Francis Castro"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -126,7 +126,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:francisco_castro@brown.edu"
+    link = "mailto:francis.evgc@gmail.com"
 
   [[params.social]]
     icon = "twitter"
@@ -175,7 +175,7 @@ defaultContentLanguageInSubdir = false
 #  weight = 4
 
 [[menu.main]]
-  name = "Resume/CV"
+  name = "Resume"
   url = "#resume"
   weight = 5
 
