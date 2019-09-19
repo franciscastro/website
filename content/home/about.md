@@ -40,7 +40,7 @@ weight = 1
 
 ### **About**
 
-I am a PhD candidate at the [WPI Department of Computer Science](https://www.cs.wpi.edu) and a Visiting Research Scholar at the [Brown University Department of Computer Science](https://cs.brown.edu/).
+I am a PhD candidate at the [WPI Department of Computer Science](https://www.cs.wpi.edu) and a Visiting Researcher at the [Brown University Department of Computer Science](https://cs.brown.edu/).
 
 My research and interests revolve around understanding human cognition and behavior in people's use of computational tools and technologies. I explore how people develop mental models about computational tools, how these mental models shape their interactions and workflows with their tools, as well as how people's environments and contexts influence these interactions.
 

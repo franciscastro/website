@@ -14,8 +14,4 @@ weight = 60
 
 +++
 
-- [Resume](pdf/fcastro-resume-09202018.pdf) (_Updated: 09/20/2018_)
-
-
-- [Research Statement - Computing education and Learning Sciences](pdf/fcastro-research-stmt-comped.pdf) (_Updated: 02/01/2018_)
-- [Teaching Statement](pdf/fcastro-teaching-stmt.pdf) (_Updated: 02/01/2018_)
+- [Resume](pdf/fcastro-resume-09192019.pdf) (_Updated: 09/19/2019_)
