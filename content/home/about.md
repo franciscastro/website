@@ -12,9 +12,9 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
+    "Human-Computer Interaction (HCI)",
     "Computing Education",
     "Learning Sciences",
-    "Human-Computer Interaction (HCI)",
     "Educational technologies",
     "User Research/Human-factors research",
     "Qualitative Analytics"
@@ -24,7 +24,7 @@ weight = 1
 [[education.courses]]
   course = "PhD in Computer Science"
   institution = "Worcester Polytechnic Institute"
-  year = "Expected: 2019"
+  year = "Expected: 2020"
 
 [[education.courses]]
   course = "Master in Information Technology"

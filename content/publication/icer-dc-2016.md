@@ -28,7 +28,7 @@ url_code = ""
 
 url_dataset = ""
 
-url_pdf = "https://doi.org/10.1145/2960310.2960344"
+url_pdf = "pdf/prepub-dc-icer-2016.pdf"
 
 # Example of pointing this publication to a project page: project/deep-learning/
 url_project = ""
@@ -39,8 +39,8 @@ url_video = ""
 
 # Example of a custom URL for this publication (uncomment below)
 [[url_custom]]
-name = "Preprint"
-url = "pdf/prepub-dc-icer-2016.pdf"
+name = "ACM Digital Library"
+url = "https://doi.org/10.1145/2960310.2960344"
 
 # Add more text about this publication below.
 # More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
