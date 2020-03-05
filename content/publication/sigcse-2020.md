@@ -33,7 +33,7 @@ url_pdf = "pdf/prepub-sigcse-2020.pdf"
 # Example of pointing this publication to a project page: project/deep-learning/
 url_project = ""
 
-url_slides = ""
+url_slides = "pdf/slides-sigcse-2020.pdf"
 
 url_video = ""
 
@@ -41,6 +41,10 @@ url_video = ""
 [[url_custom]]
 name = "ACM Digital Library"
 url = "https://doi.org/10.1145/3328778.3366847"
+
+[[url_custom]]
+name = "Coding & Analysis"
+url = "https://github.com/franciscastro/sigcse-2020"
 
 # Add more text about this publication below.
 # More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
