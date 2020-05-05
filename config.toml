@@ -1,6 +1,6 @@
 baseurl = "https://franciscastro.github.io/"
 title = "Francisco Castro"
-copyright = "&copy; 2019 Francis Castro"
+copyright = "&copy; 2021 Francis Castro"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -20,8 +20,8 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Francisco Castro"
-  role = "Visiting Researcher | Brown University"
-  organization = "PhD Candidate | Worcester Polytechnic Institute"
+  role = "Researcher | Worcester Polytechnic Institute"
+  organization = "Visiting Researcher | Brown University"
   organization_url = ""
   avatar = "francis-2019.jpg"
   email = "francis.evgc @ gmail.com"

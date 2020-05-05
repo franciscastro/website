@@ -13,10 +13,10 @@ weight = 1
 [interests]
   interests = [
     "Human-Computer Interaction (HCI)",
+    "User Research/Human-factors research",
     "Computing Education",
     "Learning Sciences",
     "Educational technologies",
-    "User Research/Human-factors research",
     "Qualitative Analytics"
   ]
 
@@ -24,7 +24,7 @@ weight = 1
 [[education.courses]]
   course = "PhD in Computer Science"
   institution = "Worcester Polytechnic Institute"
-  year = "Expected: 2020"
+  year = "2020"
 
 [[education.courses]]
   course = "Master in Information Technology"
@@ -40,16 +40,16 @@ weight = 1
 
 ### **About**
 
-I am a PhD candidate at the [WPI Department of Computer Science](https://www.cs.wpi.edu) and a Visiting Researcher at the [Brown University Department of Computer Science](https://cs.brown.edu/).
+I recently completed my PhD in Computer Science at [WPI](https://www.cs.wpi.edu). I am currently a researcher at the [WPI Advanced Learning Technologies](http://alt.wpi.edu) and a Visiting Researcher at the [Brown University Department of Computer Science](https://cs.brown.edu/).
 
-My research and interests revolve around understanding human cognition and behavior in people's use of computational tools and technologies. I explore how people develop mental models about computational tools, how these mental models shape their interactions and workflows with their tools, as well as how people's environments and contexts influence these interactions.
+My research and interests revolve around understanding human cognition and behavior in people's use of computational tools and technologies. I explore how people develop mental models about technologies, how these models shape their interactions and workflows with their tools, as well as how people's environments and contexts influence these interactions.
 
-### **Understanding programmer cognition**
+### **PhD Research: Understanding programmer cognition**
 
-I work with [Dr. Kathi Fisler](http://cs.brown.edu/~kfisler/) in studying how learners, particularly novice-programmers, learn to design programs by exploring the cognitive factors involved in programming and problem-solving, learners' interactions with their tools (e.g. programming languages and IDEs), and the influence of their learning contexts in their programming (e.g. pedagogy and paradigms). My work lies at the intersection of the learning sciences, computer science education, and human-computer interaction. In 2017, I received the **Best Paper award** at the [Koli Calling International Conference on Computing Education Research](https://www.kolicalling.fi/index.php/previous-koli-calling-conferences/koli-calling-2017/general-information-2017) for my work on developing a [novel multi-faceted taxonomy of program-design skills](publication/koli-2017-1).
+My work with [Dr. Kathi Fisler](http://cs.brown.edu/~kfisler/) studies how novice-programmers learn program design by exploring the cognitive factors involved in programming and problem-solving, their interactions with their tools (e.g. programming languages and IDEs), and the influence of learning contexts in their programming (e.g. pedagogy). My work is in the intersection of the learning sciences, computer science education, and human-computer interaction. I received the **Best Paper award** at the 2017 [Koli Calling International Conference on Computing Education Research](https://www.kolicalling.fi/index.php/previous-koli-calling-conferences/koli-calling-2017/general-information-2017) for my work on developing a [novel multi-faceted taxonomy of program-design skills](publication/koli-2017-1).
 
 ### **Developing computational thinking through game design and play**
-I work with the [Advanced Learning Technologies](http://alt.wpi.edu) in the research and development of the [Wearable Learning Cloud Platform](http://wlcp.embodied.wpi.edu/), a platform that learners can use to design and play mathematics games that help [develop computational thinking skills](https://www.wpi.edu/news/wpi-researchers-awarded-grant-help-k-12-students-design-math-games).
+I work with the [Advanced Learning Technologies Laboratory](http://alt.wpi.edu) in the research and development of the [Wearable Learning Cloud Platform](http://wlcp.embodied.wpi.edu/), a platform that learners can use to design and play mathematics games that help [develop computational thinking skills](https://www.wpi.edu/news/wpi-researchers-awarded-grant-help-k-12-students-design-math-games).
 
 ### **Early work**
 
