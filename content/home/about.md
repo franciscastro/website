@@ -40,13 +40,13 @@ weight = 1
 
 ### **About**
 
-I recently completed my PhD in Computer Science at [WPI](https://www.cs.wpi.edu). I am currently a researcher at the [WPI Advanced Learning Technologies](http://alt.wpi.edu) and a Visiting Researcher at the [Brown University Department of Computer Science](https://cs.brown.edu/).
+I am a researcher at the [WPI and University of Massachusetts Amherst Advanced Learning Technologies Laboratory](http://alt.wpi.edu) and a Visiting Researcher at the [Brown University Department of Computer Science](https://cs.brown.edu/). I completed my PhD in Computer Science (with a focus on human-centered computing and computing education) at [WPI](https://www.cs.wpi.edu). 
 
 My research and interests revolve around understanding human cognition and behavior in people's use of computational tools and technologies. I explore how people develop mental models about technologies, how these models shape their interactions and workflows with their tools, as well as how people's environments and contexts influence these interactions.
 
-### **PhD Research: Understanding programmer cognition**
+### **Developing theories of programmer cognition**
 
-My work with [Dr. Kathi Fisler](http://cs.brown.edu/~kfisler/) studies how novice-programmers learn program design by exploring the cognitive factors involved in programming and problem-solving, their interactions with their tools (e.g. programming languages and IDEs), and the influence of learning contexts in their programming (e.g. pedagogy). My work is in the intersection of the learning sciences, computer science education, and human-computer interaction. I received the **Best Paper award** at the 2017 [Koli Calling International Conference on Computing Education Research](https://www.kolicalling.fi/index.php/previous-koli-calling-conferences/koli-calling-2017/general-information-2017) for my work on developing a [novel multi-faceted taxonomy of program-design skills](publication/koli-2017-1).
+My [dissertation work](publication/dissertation-2020) with [Dr. Kathi Fisler](http://cs.brown.edu/~kfisler/) studies how novice programmers learn program design by exploring the cognitive factors involved in programming and problem-solving, their interactions with their tools (e.g. programming languages and IDEs), and the influence of learning contexts in their programming (e.g. pedagogy). My work is in the intersection of the learning sciences, computing education, and human-computer interaction. I received the **Best Paper award** at the 2017 [Koli Calling International Conference on Computing Education Research](https://www.kolicalling.fi/index.php/previous-koli-calling-conferences/koli-calling-2017/general-information-2017) for my work on developing a [novel multi-faceted taxonomy of program-design skills](publication/koli-2017-1).
 
 ### **Developing computational thinking through game design and play**
 I work with the [Advanced Learning Technologies Laboratory](http://alt.wpi.edu) in the research and development of the [Wearable Learning Cloud Platform](http://wlcp.embodied.wpi.edu/), a platform that learners can use to design and play mathematics games that help [develop computational thinking skills](https://www.wpi.edu/news/wpi-researchers-awarded-grant-help-k-12-students-design-math-games).

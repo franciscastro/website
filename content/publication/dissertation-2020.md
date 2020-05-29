@@ -2,7 +2,7 @@
 
 abstract = ""
 
-abstract_short = "I conducted a series of multi-university user studies with computer science students to develop a data-grounded theory that captures and describes the facets of students' program design skills and processes."
+abstract_short = "Through a series of multi-university user studies with computer science learners, I developed a novel data-grounded theory that captures and describes the various facets of students' program design skills and processes, and the cognitive processes that underlie these."
 
 authors = ["F Castro"]
 
@@ -28,7 +28,7 @@ url_code = ""
 
 url_dataset = ""
 
-url_pdf = ""
+url_pdf = "pdf/francis-castro-dissertation-wpi-public.pdf"
 
 # Example of pointing this publication to a project page: project/deep-learning/
 url_project = ""
