@@ -40,7 +40,7 @@ weight = 1
 
 ### **About**
 
-I am a researcher at the [WPI and University of Massachusetts Amherst Advanced Learning Technologies Laboratory](http://alt.wpi.edu) and a Visiting Researcher at the [Brown University Department of Computer Science](https://cs.brown.edu/). I completed my PhD in Computer Science (with a focus on human-centered computing and computing education) at [WPI](https://www.cs.wpi.edu). 
+I am a researcher at the [Advanced Learning Technologies Laboratory](https://advancedlearningtech.com/) and a Visiting Researcher at the [Brown University Department of Computer Science](https://cs.brown.edu/). I completed my PhD in Computer Science (with a focus on human-centered computing and computing education) at [WPI](https://www.cs.wpi.edu). 
 
 My research and interests revolve around understanding human cognition and behavior in people's use of computational tools and technologies. I explore how people develop mental models about technologies, how these models shape their interactions and workflows with their tools, as well as how people's environments and contexts influence these interactions.
 
