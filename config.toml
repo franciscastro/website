@@ -20,8 +20,9 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Francisco Castro"
-  role = "Researcher | Worcester Polytechnic Institute"
-  organization = "Visiting Researcher | Brown University"
+  role = "Researcher Scientist"
+  organization = "University of Massachusetts Amherst"
+  #organization = "Visiting Researcher | Brown University"
   organization_url = ""
   avatar = "francis-2019.jpg"
   email = "francis.evgc @ gmail.com"

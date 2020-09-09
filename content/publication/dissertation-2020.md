@@ -39,8 +39,8 @@ url_video = ""
 
 # Example of a custom URL for this publication (uncomment below)
 [[url_custom]]
-name = "WPI Digital — Theses and Dissertations"
-url = ""
+name = "Digital WPI | Theses and Dissertations"
+url = "https://digitalcommons.wpi.edu/etd-dissertations/595/"
 
 #[[url_custom]]
 #name = "Coding & Analysis"
