@@ -20,7 +20,7 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Francisco Castro"
-  role = "Researcher Scientist"
+  role = "Research Scientist"
   organization = "University of Massachusetts Amherst"
   #organization = "Visiting Researcher | Brown University"
   organization_url = ""
